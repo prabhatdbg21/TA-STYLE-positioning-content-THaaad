@@ -60,6 +60,10 @@ table {
     clear: both;
 }
 
+body{
+    background-color: wheat;
+}
+
 /*header */
 header{
     font-size: 26px;
@@ -71,6 +75,9 @@ header{
     max-width: 90%;
     margin: 0 auto;
     padding: 0px 30px;
+    background-color: white;
+    padding: 20px 0;
+    font-family: 'Montserrat', sans-serif;
 }
 .box{
     float: left;
@@ -98,7 +105,7 @@ h2{
     margin-top: 10px;
 }
 .left{
-    margin-left: 30px;
+    padding: 0 30px;
 }
 
 
